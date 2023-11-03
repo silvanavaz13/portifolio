@@ -1,7 +1,5 @@
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://github.com/silvanavaz13/portifolio/blob/main/assets/eu.jpg)
-
 ## Ferramentas utilizadas:
 
 * HTML
